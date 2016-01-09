@@ -1,0 +1,32 @@
+C:\Users\3dft\Documents\v\Projects\MeshGeometry\SU2 Viewer\bin\x64\Debug\SU2 Viewer.exe
+C:\Users\3dft\Documents\v\Projects\MeshGeometry\SU2 Viewer\bin\x64\Debug\SU2 Viewer.pdb
+C:\Users\3dft\Documents\v\Projects\MeshGeometry\SU2 Viewer\bin\x64\Debug\MeshGeometry.dll
+C:\Users\3dft\Documents\v\Projects\MeshGeometry\SU2 Viewer\bin\x64\Debug\OpenTK.Compatibility.dll
+C:\Users\3dft\Documents\v\Projects\MeshGeometry\SU2 Viewer\bin\x64\Debug\OpenTK.dll
+C:\Users\3dft\Documents\v\Projects\MeshGeometry\SU2 Viewer\bin\x64\Debug\OpenTK.GLControl.dll
+C:\Users\3dft\Documents\v\Projects\MeshGeometry\SU2 Viewer\bin\x64\Debug\MeshGeometry.pdb
+C:\Users\3dft\Documents\v\Projects\MeshGeometry\SU2 Viewer\bin\x64\Debug\OpenTK.pdb
+C:\Users\3dft\Documents\v\Projects\MeshGeometry\SU2 Viewer\bin\x64\Debug\OpenTK.xml
+C:\Users\3dft\Documents\v\Projects\MeshGeometry\SU2 Viewer\bin\x64\Debug\OpenTK.GLControl.xml
+C:\Users\3dft\Documents\v\Projects\MeshGeometry\SU2 Viewer\obj\x64\Debug\SU2 Viewer.csprojResolveAssemblyReference.cache
+C:\Users\3dft\Documents\v\Projects\MeshGeometry\SU2 Viewer\obj\x64\Debug\SU2_Viewer.Form1.resources
+C:\Users\3dft\Documents\v\Projects\MeshGeometry\SU2 Viewer\obj\x64\Debug\SU2_Viewer.Properties.Resources.resources
+C:\Users\3dft\Documents\v\Projects\MeshGeometry\SU2 Viewer\obj\x64\Debug\SU2 Viewer.csproj.GenerateResource.Cache
+C:\Users\3dft\Documents\v\Projects\MeshGeometry\SU2 Viewer\obj\x64\Debug\SU2 Viewer.exe
+C:\Users\3dft\Documents\v\Projects\MeshGeometry\SU2 Viewer\obj\x64\Debug\SU2 Viewer.pdb
+D:\personal\MeshGeometry\SU2 Viewer\obj\x64\Debug\SU2 Viewer.exe
+D:\personal\MeshGeometry\SU2 Viewer\obj\x64\Debug\SU2 Viewer.pdb
+D:\personal\MeshGeometry\SU2 Viewer\bin\x64\Debug\SU2 Viewer.exe
+D:\personal\MeshGeometry\SU2 Viewer\bin\x64\Debug\SU2 Viewer.pdb
+D:\personal\MeshGeometry\SU2 Viewer\bin\x64\Debug\MeshGeometry.dll
+D:\personal\MeshGeometry\SU2 Viewer\bin\x64\Debug\OpenTK.Compatibility.dll
+D:\personal\MeshGeometry\SU2 Viewer\bin\x64\Debug\OpenTK.dll
+D:\personal\MeshGeometry\SU2 Viewer\bin\x64\Debug\OpenTK.GLControl.dll
+D:\personal\MeshGeometry\SU2 Viewer\bin\x64\Debug\MeshGeometry.pdb
+D:\personal\MeshGeometry\SU2 Viewer\bin\x64\Debug\OpenTK.pdb
+D:\personal\MeshGeometry\SU2 Viewer\bin\x64\Debug\OpenTK.xml
+D:\personal\MeshGeometry\SU2 Viewer\bin\x64\Debug\OpenTK.GLControl.xml
+D:\personal\MeshGeometry\SU2 Viewer\obj\x64\Debug\SU2 Viewer.csprojResolveAssemblyReference.cache
+D:\personal\MeshGeometry\SU2 Viewer\obj\x64\Debug\SU2_Viewer.Form1.resources
+D:\personal\MeshGeometry\SU2 Viewer\obj\x64\Debug\SU2_Viewer.Properties.Resources.resources
+D:\personal\MeshGeometry\SU2 Viewer\obj\x64\Debug\SU2 Viewer.csproj.GenerateResource.Cache
